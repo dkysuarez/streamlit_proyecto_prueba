@@ -1,0 +1,8 @@
+streamlit 
+pandas
+numpy
+pybaseball 
+plotly
+matplotlib 
+seaborn
+baseball_field_viz 
